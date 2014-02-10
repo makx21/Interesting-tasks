@@ -1,4 +1,4 @@
 interesting-tasks
 =================
 
-Interesting tasks , from the others resources
+Interesting tasks , from chekio and the others resources
