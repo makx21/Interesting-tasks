@@ -8,6 +8,7 @@ def passw(data):
         and filter(lambda x:x.islower(), data) \
         and filter(lambda x:x.isdigit(), data))
 
+
 def pass2any(data):
       return (len(data) >= 10 and
         any([ch.isupper() for ch in data]) and
