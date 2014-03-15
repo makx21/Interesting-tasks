@@ -15,3 +15,7 @@ Home
 [**Password**](https://github.com/makx21/interesting-tasks/blob/master/home/password.py) - The password will be considered strong enough if its length is greater than or equal to 10 symbols, it has at least one number, as well as containing one uppercase letter and one lowercase letter in it. Input data: A string that is a password (Unicode for python 2.7). Output data: The output will be true if the password is safe, a boolean or any data type that can be converted and processed as a boolean.
 
 [**Transposed Matrix**](https://github.com/makx21/interesting-tasks/blob/master/home/transMatrix.py) - You have been given a matrix as a 2D list with integers. Your task is to return a transposed matrix based on input. Input: A matrix. A list of lists with integers. Output: A transposed matrix. A list of lists with integers. 
+
+[**Weekend Counter**](https://github.com/makx21/interesting-tasks/blob/master/home/weekCount.py) - You should to count each day of rest (Saturday and Sunday) starting from the initial date to final date. Count the initial and final dates if they fall on a Saturday or Sunday. 
+
+
