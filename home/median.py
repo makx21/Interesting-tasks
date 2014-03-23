@@ -1,6 +1,6 @@
-#A median is a numerical value separating the upper half of a list of numbers from the lower half.
+# A median is a numerical value separating the upper half of a list of numbers from the lower half.
 # For this mission, you are given a list of integers. 
-#With it, you must separate the upper half of the numbers from the lower half and find the median
+# With it, you must separate the upper half of the numbers from the lower half and find the median
 
 
 def getMedian(data):
