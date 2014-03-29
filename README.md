@@ -16,6 +16,9 @@ Home
 
 [**Transposed Matrix**](https://github.com/makx21/interesting-tasks/blob/master/home/transMatrix.py) - You have been given a matrix as a 2D list with integers. Your task is to return a transposed matrix based on input. Input: A matrix. A list of lists with integers. Output: A transposed matrix. A list of lists with integers. 
 
-[**Weekend Counter**](https://github.com/makx21/interesting-tasks/blob/master/home/weekCount.py) - You should to count each day of rest (Saturday and Sunday) starting from the initial date to final date. Count the initial and final dates if they fall on a Saturday or Sunday. 
+[**Weekend Counter**](https://github.com/makx21/interesting-tasks/blob/master/home/weekCount.py) - You should to count each day of rest (Saturday and Sunday) starting from the initial date to final date. Count the initial and final dates if they fall on a Saturday or Sunday.
+
+[**Xs and Os Referee**](https://github.com/makx21/interesting-tasks/blob/master/home/xo.py) - Tic-Tac-Toe, sometimes also known as Xs and Os, is a game for two players (X and O) who take turns marking the spaces in a 3×3 grid.You will be the referee for this games results. You are given a result of a game and you must determine if the game ends in a win or a draw as well as who will be the winner. Make sure to return "X" if the X-player wins and "O" if the O-player wins. If the game is a draw, return "D." Input: A game's result. A list of strings (Unicode). Output: "X", "O" or "D". A string. 
+
 
 
