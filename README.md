@@ -20,7 +20,9 @@ Home
 
 [**Xs and Os Referee**](https://github.com/makx21/interesting-tasks/blob/master/home/xo.py) - Tic-Tac-Toe, sometimes also known as Xs and Os, is a game for two players (X and O) who take turns marking the spaces in a 3×3 grid.You will be the referee for this games results. You are given a result of a game and you must determine if the game ends in a win or a draw as well as who will be the winner. Make sure to return "X" if the X-player wins and "O" if the O-player wins. If the game is a draw, return "D." Input: A game's result. A list of strings (Unicode). Output: "X", "O" or "D". A string. 
 
-[**Fizz buzz**](https://github.com/makx21/interesting-tasks/blob/master/home/fizzBuzz.py) - You should write a function that will receive a positive integer and return: "Fizz Buzz" if the number is divisible by 3 and by 5; "Fizz" if the number is divisible by 3; "Buzz" if the number is divisible by 5; 
+[**Fizz buzz**](https://github.com/makx21/interesting-tasks/blob/master/home/fizzBuzz.py) - You should write a function that will receive a positive integer and return: "Fizz Buzz" if the number is divisible by 3 and by 5; "Fizz" if the number is divisible by 3; "Buzz" if the number is divisible by 5;
+
+[**Three words**](https://github.com/makx21/interesting-tasks/blob/master/home/threeWords.py) - You are given a string with words and numbers separated by whitespaces (one space). The words contains only letters. You should check if the string contains three words in succession.
 
 
 
