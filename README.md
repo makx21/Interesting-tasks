@@ -24,5 +24,8 @@ Home
 
 [**Three words**](https://github.com/makx21/interesting-tasks/blob/master/home/threeWords.py) - You are given a string with words and numbers separated by whitespaces (one space). The words contains only letters. You should check if the string contains three words in succession.
 
+[**Feed Pigeons**](https://github.com/makx21/interesting-tasks/blob/master/home/feedPig.py) - I start to feed one of the pigeons. A minute later two more fly by and a minute after that another 3. Then 4, and so on (Ex: 1+2+3+4+...). One portion of food lasts a pigeon for a minute, but in case there's not enough food for all the birds, the pigeons who arrived first ate first. Pigeons are hungry animals and eat without knowing when to stop. If I have N portions of bird feed, how many pigeons will be fed with at least one portion of wheat? 
+
+
 
 
