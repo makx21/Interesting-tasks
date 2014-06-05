@@ -28,6 +28,8 @@ Home
 
 [**Striped Words**](https://github.com/makx21/interesting-tasks/blob/master/home/stripedWords.py) - You are given a block of text with different words. These words are separated by white-spaces and punctuation marks. Numbers are not considered words in this mission (a mix of letters and digits is not a word either). You should count the number of words (striped words) where the vowels with consonants are alternating, that is; words that you count cannot have two consecutive vowels or consonants. The words consisting of a single letter are not striped -- do not count those.
 
+[**Verify anagrams**](https://github.com/makx21/interesting-tasks/blob/master/home/anagrams.py) - An anagram is a type of word play, the result of rearranging the letters of a word or phrase to produce a new word or phrase, using all the original letters exactly once. Two words are anagrams to each other if we can get one from another by rearranging the letters. Anagrams are case-insensitive and don't take account whitespaces. For example: "Gram Ring Mop" and "Programming" are anagrams. But "Hello" and "Ole Oh" are not.
+
 
 
 
