@@ -2,10 +2,7 @@
 class pointLocation {
     var $pointOnVertex = true; // Check if the point sits exactly on one of the vertices?
 
-    function pointLocation() {
-    }
-
-        function pointInPolygon($point, $polygon, $pointOnVertex = true) {
+    function pointInPolygon($point, $polygon, $pointOnVertex = true) {
         $this->pointOnVertex = $pointOnVertex;
 
         // Transform string coordinates into arrays with x and y values
