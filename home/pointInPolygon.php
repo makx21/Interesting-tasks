@@ -1,8 +1,11 @@
 <?php
-class pointLocation {
+
+class pointLocation 
+{
     var $pointOnVertex = true; // Check if the point sits exactly on one of the vertices?
 
-    function pointInPolygon($point, $polygon, $pointOnVertex = true) {
+    function pointInPolygon($point, $polygon, $pointOnVertex = true) 
+    {
         $this->pointOnVertex = $pointOnVertex;
 
         // Transform string coordinates into arrays with x and y values
@@ -45,7 +48,8 @@ class pointLocation {
         }
     }
 
-    function pointOnVertex($point, $vertices) {
+    function pointOnVertex($point, $vertices) 
+    {
         foreach($vertices as $vertex) {
             if ($point == $vertex) {
                 return true;
@@ -54,12 +58,12 @@ class pointLocation {
 
     }
 
-    function pointStringToCoordinates($pointString) {
+    function pointStringToCoordinates($pointString) 
+    {
         $coordinates = explode(" ", $pointString);
         return array("x" => $coordinates[0], "y" => $coordinates[1]);
     }
 }
-
 
 $pointLocation = new pointLocation();
 
