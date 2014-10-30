@@ -32,6 +32,7 @@ Home
 
 [**Point In Polygon**](https://github.com/makx21/interesting-tasks/blob/master/home/pointInPolygon.php) - Determining Whether A Point Is Inside A Complex Polygon
 
+[**2D Array in Spiral pattern**](https://github.com/makx21/interesting-tasks/blob/master/home/spiral.py) - Print a 2D nested list in clockwise direction, from the top left corner to the center.
 
 
 
