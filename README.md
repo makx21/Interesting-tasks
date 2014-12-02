@@ -34,5 +34,14 @@ Home
 
 [**2D Array in Spiral pattern**](https://github.com/makx21/interesting-tasks/blob/master/home/spiral.py) - Print a 2D nested list in clockwise direction, from the top left corner to the center.
 
+[**Deepest pit in array**](https://github.com/makx21/interesting-tasks/blob/master/home/depth.php)
+Given a zero-indexed array of integers A[N], we can define a "pit" (of this array) a triplet of integers (P,Q,R) such that they follow these rules:
+0 ≤ P < Q < R < N
+A[P] > A[P+1] > ... > A[Q] (strictly decreasing) and
+A[Q] < A[Q+1] < ... < A[R] (strictly increasing).
+We can also define the depth of this pit as the number
+min{A[P] − A[Q], A[R] − A[Q]}.
+You should write a method (function) my_func(int[] A) which returns the depth of the deepest pit in array A or -1 if it does not exit. 
+Costraints: N is an integer within the range [1..1,000,000]; each element of array A is an integer within the range [−100,000,000..100,000,000].
 
 
