@@ -38,8 +38,8 @@ Home
 Given a zero-indexed array of integers A[N], we can define a "pit" (of this array)
 a triplet of integers (P,Q,R) such that they follow these rules:
 0 ≤ P < Q < R < N
-A[P] > A[P+1] > ... > A[Q] (strictly decreasing) and
-A[Q] < A[Q+1] < ... < A[R] (strictly increasing).
+A[P] > A[P+1] > ... > A[Q] - strictly decreasing and
+A[Q] < A[Q+1] < ... < A[R] - strictly increasing.
 We can also define the depth of this pit as the number
 min{A[P] − A[Q], A[R] − A[Q]}.
 You should write a method (function) my_func(int[] A) which returns the depth of the deepest pit in array A or -1 if it does not exit. 
