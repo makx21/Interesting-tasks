@@ -35,7 +35,8 @@ Home
 [**2D Array in Spiral pattern**](https://github.com/makx21/interesting-tasks/blob/master/home/spiral.py) - Print a 2D nested list in clockwise direction, from the top left corner to the center.
 
 [**Deepest pit in array**](https://github.com/makx21/interesting-tasks/blob/master/home/depth.php)
-Given a zero-indexed array of integers A[N], we can define a "pit" (of this array) a triplet of integers (P,Q,R) such that they follow these rules:
+Given a zero-indexed array of integers A[N], we can define a "pit" (of this array)
+a triplet of integers (P,Q,R) such that they follow these rules:
 0 ≤ P < Q < R < N
 A[P] > A[P+1] > ... > A[Q] (strictly decreasing) and
 A[Q] < A[Q+1] < ... < A[R] (strictly increasing).
