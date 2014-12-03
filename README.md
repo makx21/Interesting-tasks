@@ -53,7 +53,7 @@ For example :
 We have a string - {Please|Just} make this {cool|awesome|random} test sentence {rotate {quickly|fast} and random|spin and be random}
 
 Return results must be like this :
-Please make this awesome test sentence rotate fast and random
+Please make this awesome test sentence rotate fast and random<br>
 Please make this cool test sentence spin and be random
 Just make this cool test sentence rotate quickly and random
 Just make this awesome test sentence spin and be random
