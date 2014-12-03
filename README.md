@@ -47,14 +47,14 @@ Costraints: N is an integer within the range [1..1,000,000]; each element of arr
 
 [**Shuffle string with pattern**](https://github.com/makx21/interesting-tasks/blob/master/home/shuffleString.php)
 You are given a string with includes blocks like as {word1|word2|word3} or {word1| words {word2|word3}} etc.
-In this blocks you must get a random choise with delimeter | .
+In this blocks you must get a random choise with delimeter | .<br>
 
-For example :
-We have a string - {Please|Just} make this {cool|awesome|random} test sentence {rotate {quickly|fast} and random|spin and be random}
-
-Return results must be like this :
+For example :<br>
+We have a string - {Please|Just} make this {cool|awesome|random} test sentence {rotate {quickly|fast} and random|spin and be random}<br>
+<br>
+Return results must be like this :<br>
 Please make this awesome test sentence rotate fast and random<br>
-Please make this cool test sentence spin and be random
-Just make this cool test sentence rotate quickly and random
-Just make this awesome test sentence spin and be random
+Please make this cool test sentence spin and be random<br>
+Just make this cool test sentence rotate quickly and random<br>
+Just make this awesome test sentence spin and be random<br>
 
