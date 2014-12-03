@@ -46,7 +46,7 @@ You should write a method (function) my_func(int[] A) which returns the depth of
 Costraints: N is an integer within the range [1..1,000,000]; each element of array A is an integer within the range [−100,000,000..100,000,000].
 
 [**Shuffle string with pattern**](https://github.com/makx21/interesting-tasks/blob/master/home/shuffleString.php)
-You are given a string with includes blocks like as {word1|word2|word3} or {word1| words {word2|word3}} etc.
+You are given a string with includes blocks like this {word1|word2|word3} or {word1| words {word2|word3}} etc.
 In this blocks you must get a random choise with delimeter | .<br>
 For example :<br>
 We have a string - {Please|Just} make this {cool|awesome|random} test sentence {rotate {quickly|fast} and random|spin and be random}<br>
